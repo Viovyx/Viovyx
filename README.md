@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Whoever is reading this, I hope your having an amazing day so far!<br><br>You can find my linked socials here or find more on my <a href="https://viovyx.com/socials" target="_blank">website</a>.</p>
+<p align="left">Whoever is reading this, I hope your having an amazing day so far!<br><br>You can find my linked socials here or find more on my website: viovyx.com/socials</p>
 
 ###
 
@@ -22,8 +22,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Viovyx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Viovyx&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Viovyx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Viovyx&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="right">
+  <img src="https://profile-counter.glitch.me/Viovyx/count.svg?"  />
 </div>
 
 ###
