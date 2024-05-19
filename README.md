@@ -15,7 +15,7 @@ I'm bad at writing en about me so have an upside down cat instead:<br><br>█▄
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Viovyx&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Viovyx&icon=5&color=6)](https://visitcount.itsvg.in)
+<!-- ^^Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 My contribution history:
+[![Viovyx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viovyx&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
