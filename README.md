@@ -3,9 +3,11 @@
 
 # GitHub Stats:
 <p align="center">
+  <!-- Broken Graphs
   <img src="https://github-readme-stats.vercel.app/api?username=Viovyx&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viovyx&theme=transparent&hide_border=true&mode=weekly" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viovyx&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+  -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=viovyx&theme=github-dark" />
 </p>
-<!-- https://gprm.itsvg.in -->
+<!-- ^ https://gprm.itsvg.in ^ -->
