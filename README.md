@@ -1,16 +1,12 @@
-# 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=viovyx&theme=catppuccin_mocha&hide_border=false)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=viovyx&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viovyx&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=viovyx&theme=catppuccin_mocha&hide_border=false"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viovyx&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 📈 Contribution History:
-<!-- Broken Graphs
-<img src="https://github-readme-stats.vercel.app/api?username=Viovyx&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Viovyx&theme=transparent&hide_border=true&mode=weekly" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viovyx&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
--->
+## 📈 Contribution History:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=viovyx&theme=github-dark" />
