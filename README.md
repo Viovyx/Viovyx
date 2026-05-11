@@ -36,10 +36,16 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.profile-readme-generator.com/api?username=viovyx&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Oerall%20Statistics" height="150" alt="stats graph"  />
+   <img width="15%" />
+  <img src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=viovyx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.profile-readme-generator.com/api?username=viovyx&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1&custom_title=Oerall%20Statistics" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=viovyx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.profile-readme-generator.com/graph?username=viovyx&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20History&hide_border=true&bg_color=000000&color=d9d9d9&line=9745f5&point=9745f5&area_color=cd47ff&title_color=9745f5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.profile-readme-generator.com/graph?username=viovyx&radius=16&theme=github-dark&area=true&order=5&custom_title=Contribution%20History&hide_border=true&color=cd47ff&line=9745f5&point=9745f5&area_color=cd47ff&title_color=58a6ff&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
