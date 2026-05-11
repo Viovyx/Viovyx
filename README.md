@@ -46,5 +46,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.profile-readme-generator.com/graph?username=viovyx&radius=16&theme=github-dark&area=true&order=5&custom_title=Contribution%20History&hide_border=true&color=cd47ff&line=9745f5&point=9745f5&area_color=cd47ff&title_color=58a6ff&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.profile-readme-generator.com/graph?username=viovyx&radius=16&theme=github-dark&area=true&order=5&custom_title=Contribution%20History&hide_border=true&color=9244AB&line=9745f5&point=9745f5&area_color=cd47ff&title_color=58a6ff&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
